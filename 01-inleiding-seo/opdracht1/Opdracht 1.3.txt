@@ -1,0 +1,3 @@
+Navigational Queries: "Gmail Login"
+Informational Queries: "Bijwerkingen van Paracetamol"
+Transactional Queries: "Reserveren bij STAN Arnhem"
